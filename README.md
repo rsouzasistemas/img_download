@@ -8,6 +8,7 @@ O projeto consiste no uso da biblioteca "bing_image_downloader", criando comando
 Para executar o projeto, você precisa ter instalado o Python 3.8+
 
 - Clone o projeto para o local de sua escolha e entre na pasta do mesmo.
+- Caso ainda não tenha, instale a biblioteca [bing-image-downloader](https://pypi.org/project/bing-image-downloader/), usando o comando "pip install bing-image-downloader" (outra forma de instalar está disponível no link da biblioteca).
 - No CLI de sua preferência, execute o comando "python main.py" ou "python3 main.py" (a depender da sua instalação!).
 
 
